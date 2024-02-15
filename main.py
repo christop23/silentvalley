@@ -1,5 +1,5 @@
 """
-Platformer Game
+Silent Valley
 """
 
 import arcade
@@ -9,7 +9,7 @@ import random
 # Constants
 SCREEN_WIDTH = 900
 SCREEN_HEIGHT = 490
-SCREEN_TITLE = "Platformer"
+SCREEN_TITLE = "Silent Valley"
 
 # Constants used to scale our sprites from their original size
 CHARACTER_SCALING = 2
